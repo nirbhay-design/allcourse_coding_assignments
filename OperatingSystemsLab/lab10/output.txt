@@ -1,0 +1,48 @@
+ENTER BLOCK SIZE: 
+ENTER MAX FILE SIZE: 
+Enter dir name: Enter dir name: Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+showing files here 
+rbhayy 60
+nirbhay 56
+rbhay 36
+nihay 32
+nirbhayy 2
+enter file name to be opened: file opened successfully
+enter what do you wnat to write: 
+some data
+This is the world and you have to accept it
+file closed successfully
+file not opened
+Enter changed directory: Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+showing files here 
+rbhayy.txt 72
+nirbhay.txt 68
+ramesh.txt 64
+enter the source dir: enter the dest directory: enter source file: FILE CREATED
+showing files here 
+rbhay 76
+rbhayy.txt 72
+nirbhay.txt 68
+ramesh.txt 64

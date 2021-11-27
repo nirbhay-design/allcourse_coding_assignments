@@ -1,0 +1,10 @@
+echo Hello world
+ls
+pwd
+sleep 2
+cat commands.txt
+pwd
+history
+echo exit
+exit
+pwd

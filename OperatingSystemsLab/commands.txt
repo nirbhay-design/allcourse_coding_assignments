@@ -1,0 +1,30 @@
+
+
+chmod -> 777 
+chmod +x filename => we are adding +x permission to the file named filename
+
+
+
+
+
+0-> nothing
+1-> x
+2-> write
+3-> write+x
+4-> r
+5-> r+x
+6-> r+w
+
+
+
+chmod 7(user hs permission) 7 (user grp) 7(other) filename
+
+	r(4)	w(2)	x(1)
+0	0	0	0
+1	0	0	1
+2	0	1	0
+3	0	1	1
+4	1	0	0
+5	1	0	1
+6	1	1	0
+7	1	1	1

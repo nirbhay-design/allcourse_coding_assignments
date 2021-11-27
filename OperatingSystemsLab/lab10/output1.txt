@@ -1,0 +1,49 @@
+ENTER BLOCK SIZE: 
+ENTER MAX FILE SIZE: 
+Enter dir name: Enter dir name: Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+showing files here 
+rbhayy 59
+nirbhay 55
+rbhay 35
+nihay 31
+nirbhayy 1
+enter file name to be opened: file opened successfully
+enter what do you wnat to write: 
+some data Hello! my name is nirbhay sharma
+file closed successfully
+Enter changed directory: Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+Enter File name: 
+ENTER File size : 
+FILE CREATED
+showing files here 
+rbhayy.txt 71
+nirbhay.txt 67
+ramesh.txt 63
+enter the source dir: enter the dest directory: enter source file: FILE CREATED
+showing files here 
+rbhay 75
+rbhayy.txt 71
+nirbhay.txt 67
+ramesh.txt 63
+4906
+4938
+diro 
